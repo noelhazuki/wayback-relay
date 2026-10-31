@@ -33,7 +33,7 @@ export default {
       });
     }
 
-    // ブラウザで保存記録を確認できた投稿を1件だけテスト。
+    // ブラウザで保存記録を確認できている投稿を1件だけテスト。
     const original =
       "https://twitter.com/atelier_kazuna/status/1398605647386529797";
 
