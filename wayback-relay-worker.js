@@ -131,7 +131,7 @@ export default {
         title: title.trim(),
         description,
         twitterDescription,
-        note: "説明文は省略されている場合があります。投稿全文の取得を保証するものではありません。",
+        note: "説明文は省略されている場合があります投稿全文の取得を保証するものではありません。",
         archiveUrl,
       });
     } catch (e) {
